@@ -25,3 +25,7 @@
 ### Contributors and collaborators
 
 + Tina Myers, Sara Strasner, Dina Ayoub and Brai Frauen
+
+### Resources
+
+[Tutorial: Using AWS Lambda with Amazon S3](https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html)
